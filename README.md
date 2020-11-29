@@ -3,8 +3,8 @@
 **The Structure of the mini-project:**
 
 
-* Sourcing and loading
-Load the data
+**Sourcing and loading:
+* Load the data
 Explore the data
 Cleaning, transforming and visualizing
 Data Wrangling: Exercise Set 1
